@@ -113,7 +113,7 @@ export default function LandingPage() {
         {
           id: "package-5",          name: "Executive Detail",          price: "$399",          variant: "Premium Interior & Exterior",          imageSrc: "http://img.b2bpic.net/free-photo/old-red-car-with-ribbon_181624-38.jpg",          imageAlt: "Luxury car after premium detailing"},
         {
-          id: "package-6",          name: "Exterior Restore",          price: "$199",          variant: "Paint Correction & Polish",          imageSrc: "http://img.b2bpic.net/free-photo/side-view-man-painting-car-door_23-2149714289.jpg",          imageAlt: "Car exterior being polished to perfection"},
+          id: "package-6",          name: "Exterior Restore",          price: "$149",          variant: "Paint Correction & Polish",          imageSrc: "http://img.b2bpic.net/free-photo/side-view-man-painting-car-door_23-2149714289.jpg",          imageAlt: "Car exterior being polished to perfection"},
       ]}
       title="Choose Your Detailing Package"
       description="Select from our range of comprehensive packages designed to fit every need and budget, from quick touch-ups to full transformations."
